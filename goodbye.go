@@ -1,3 +1,3 @@
 package vgo_example_compat
 
-const X = 1
+const X = 2
